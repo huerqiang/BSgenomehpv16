@@ -4,7 +4,7 @@ Description: Full genomic sequences for HPV16.
 Version: 1.0.0
 Authors@R: c(
       person(given = "Erqiang", family = "Hu", email = "13766876214@163.com", role  = c("aut", "cre"), comment = c(ORCID = "0000-0002-1798-7513")),
-      person("Shanye", "Yin", email = "Shanye.yin@einsteinmed.Edu ", role = c("aut", "ctb"))
+      person("Shanye", "Yin", email = "shanye.yin@einsteinmed.edu ", role = c("aut", "ctb"))
       )
 Depends: R (>= 4.2.0), GenomeInfoDb (>= 1.34.9), BSgenome (>= 1.66.2)
 License: Artistic-2.0
