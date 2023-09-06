@@ -1,20 +1,22 @@
 Package: BSgenomehpv16
 Title: HPV16
 Description: Full genomic sequences for HPV16.
-Version: 1.4.5
-Author: The Bioconductor Dev Team
-Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Version: 1.0.0
+Authors@R: c(
+      person(given = "Erqiang", family = "Hu", email = "13766876214@163.com", role  = c("aut", "cre"), comment = c(ORCID = "0000-0002-1798-7513")),
+      person("Shanye", "Yin", email = "Shanye.yin@einsteinmed.Edu ", role = c("aut", "ctb"))
+      )
 Depends: R (>= 4.2.0), GenomeInfoDb (>= 1.34.9), BSgenome (>= 1.66.2)
 License: Artistic-2.0
 organism: HPV
 common_name: HPV
 genome: NC_001526.2
 provider: NCBI
-release_date: 2023/01/31
+release_date: 2023/09/01
 source_url:
         https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/p14/
 biocViews: AnnotationData, Genetics, BSgenome, Homo_sapiens
 NeedsCompilation: no
 ondisk_seq_format: fa
-Packaged: 2023-02-03 02:50:18 UTC; hpages
+Packaged: 2023-09-01 02:50:18 UTC; hpages
 RoxygenNote: 7.2.3
