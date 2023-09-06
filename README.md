@@ -10,10 +10,10 @@ HPV16 genome
 
 ## :writing_hand: Authors
 
-Erqiang Hu
-
-Department of Bioinformatics, School of Basic Medical Sciences, Southern
+Erqiang Hu: Department of Bioinformatics, School of Basic Medical Sciences, Southern
 Medical University.
+
+Shanye Yin： Albert Einstein College of Medicine
 
 ## :arrow_double_down: Installation
 
