@@ -22,15 +22,12 @@ knitr::opts_chunk$set(
 HPV16 genome
 
 ## :writing_hand: Authors
-Erqiang Hu
+Erqiang Hu: Department of Bioinformatics, School of Basic Medical Sciences, Southern
+Medical University.
 
- Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University.
-
+Shanye Yin： Albert Einstein College of Medicine
 
 ## :arrow\_double\_down: Installation
-
-
-You can install the released version of multiEnrichment from [Github](https://github.com/huerqiang/multiEnrichment/tree/master) with:
 
 ``` r
 devtools::install_github("huerqiang/BSgenomehpv16")
